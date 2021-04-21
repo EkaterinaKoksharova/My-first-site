@@ -1,4 +1,6 @@
 # My-first-site
 Coursera test site
 
-browser-sync start --server --directory --files "*"
+**Launch**
+Go to files directory, then do the command:
+```browser-sync start --server --directory --files "*"```
